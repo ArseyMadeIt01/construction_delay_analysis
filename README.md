@@ -1,4 +1,5 @@
  Capital Project Risk & Cost Overrun Dashboard
+<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/becc359a-903d-49fa-85e7-652ec7d068ba" />
 
  Business Impact
 We created a business intelligence framework and a predictive risk-scoring model using Power BI. This tool analyzes past construction projects to identify what specifically causes budget overruns and delays. It helps construction companies move beyond guesswork, adjust safety buffers more realistically, and protect their profit margins.
