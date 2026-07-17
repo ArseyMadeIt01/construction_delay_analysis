@@ -40,4 +40,5 @@ Predicting Risk: The AI model identifies segments with a high chance of failure.
  Tech Stack:
  
   Data Modeling & Simulation: Python (Pandas, NumPy)
+  
   Business Intelligence & Architecture: Power BI Desktop, DAX (Data Analysis Expressions)
